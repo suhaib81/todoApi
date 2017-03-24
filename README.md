@@ -11,12 +11,12 @@ http://localhost:3000/api
 
 # Add new item
 - Method : POST
-- URL : http://localhost:3000/api/list/[new item value]
+- URL : http://localhost:3000/api/list/[new_item_value]
 
 # remove an item
 - Method : DELETE
-- URL : http://localhost:3000/api/list/[Item Number]
+- URL : http://localhost:3000/api/list/[Item_Number]
 
 # Update an item
 - Method : PUT
-- URL : http://localhost:3000/api/list/[Item Number]/[new value]
+- URL : http://localhost:3000/api/list/[Item_Number]/[new_value]
