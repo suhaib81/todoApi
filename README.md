@@ -1,14 +1,22 @@
 # Api Url
 http://localhost:3000/api
 
-# view the List
+# view the list
 - Method : GET
 - URL : http://localhost:3000/api/list
 
-# reset the List
+# reset the list
 - Method : DELETE
 - URL : http://localhost:3000/api/list
 
-# Add new Item
+# Add new item
 - Method : POST
-- URL : http://localhost:3000/api/list/[new_item]
+- URL : http://localhost:3000/api/list/[new item value]
+
+# remove an item
+- Method : DELETE
+- URL : http://localhost:3000/api/list/[Item Number]
+
+# Update an item
+- Method : PUT
+- URL : http://localhost:3000/api/list/[Item Number]/[new value]
