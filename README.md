@@ -1,2 +1,2 @@
-# todoApi
-Todo List rest API
+# Api Url
+http://localhost:3000/api
