@@ -1,11 +1,11 @@
 # Api Url
 http://localhost:3000/api
 
-# view the list
+# View the list
 - Method : GET
 - URL : http://localhost:3000/api/list
 
-# reset the list
+# Reset the list
 - Method : DELETE
 - URL : http://localhost:3000/api/list
 
@@ -13,7 +13,7 @@ http://localhost:3000/api
 - Method : POST
 - URL : http://localhost:3000/api/list/[new_item_value]
 
-# remove an item
+# Remove an item
 - Method : DELETE
 - URL : http://localhost:3000/api/list/[Item_Number]
 
